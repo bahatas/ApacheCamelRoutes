@@ -4,4 +4,4 @@ server:
 purchaseOrderService:
   endpoint:
     process-acknowledgement:
-      uri: 'some-uri'
+      uri: 'https://sqs.us-east-1.amazonaws.com/193916285926/product-queu'
