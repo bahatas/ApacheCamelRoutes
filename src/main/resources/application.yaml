@@ -1,0 +1,7 @@
+server:
+  port: 8085
+
+purchaseOrderService:
+  endpoint:
+    process-acknowledgement:
+      uri: 'some-uri'
